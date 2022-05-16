@@ -1,1 +1,7 @@
 # Tableau-Report
+
+While creating visualization for Citibike usage in New York, I've observed the trend during the winter months. Though I thought it would be used less due to the cold and possibly snow, usage of bikes didn't seem to decrease much. They did dip down during the holiday times, like Christmas where everyone is at home spending time with family or not bothering to go outside cause everything is closed, but in the surrounding days, usage was still pretty normal.
+
+Men are the ones who seem to use the bikes more then women, however there were a good amount of numbers of people who declined to answer/marking unknown. This could be for efficency sake to just grab the bikes and go, or people don't feel comfortable divulging information. Same for birth years. There was one outlier in ages, where pople recorded their birth year as "1969", probably to make an adult humourous joke. Eliminating that outlier showed that it seemed like people in their 20s to 30s+ were the ones who used the bikes the most.
+
+As for the locations of the start stations and end stations, it seems near Central Park while also being near the hub of most businesses. To have things be more efficent, they may choose to use the bike to get to their desination faster as opposed to walking (which can take too long) or taking their own car/taxi/uber (which can cost a lot and traffic isn't great most of the time).
